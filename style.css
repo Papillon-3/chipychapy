@@ -1,0 +1,44 @@
+h1 {
+    font-family:'Kablammo';
+    text-align: center;
+    color:#442F38;
+    background-color: #9A9B73;
+    border-radius: 14px;
+}
+.icons {
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+}
+.button {
+    height: 50px;
+    width: 120px;
+    border-radius: 15px;
+    border-bottom: 1px solid #3D0814;
+    padding:5px;
+    border-top: 1px solid #3D0814;
+    text-align:center;
+}
+p {
+    border-bottom: 2px dotted #3d0814;
+    font-family: 'Rubik Beastly';
+    color:#E7F9A9;
+    background-color: #9A9B73;
+    border-radius: 14px;
+    margin:10px;
+}
+h2 {
+    font-family: 'Raleway';
+    color:#442F38;
+    text-align:center;
+    text-transform:uppercase;
+}
+.goods {
+    width:180px;
+    height: 180px;
+    border:2px double #b1aa9c;
+    border-radius: 15px;
+}
+div {
+    vertical-align: text-top;
+}
